@@ -1,0 +1,3 @@
+Create  history array
+Store the details of the store
+Finish the history part
