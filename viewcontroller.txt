@@ -1,0 +1,3 @@
+Create first View Controller
+Create the model
+Connect with model and view controller
